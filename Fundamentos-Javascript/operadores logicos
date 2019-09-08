@@ -1,0 +1,18 @@
+ v e v -> v
+ v e f -> f
+ f e ? -> f
+
+v ou ? -> v
+f ou f -> v
+f ou f -> f
+
+v xour v -> f
+v xour f -> v
+f xour v -> v
+f xour f -> f
+
+ !v = f
+ !f = v
+
+ 
+
